@@ -6,6 +6,6 @@ Figure out the correlation between sales and engagement.
 
 # FILES
 
-Customer Engagement & Sales Analysis **(Power BI): Analysis & Dashboards
+Customer Engagement & Sales Analysis **(Power BI): Analysis & Dashboards**
 
 Customer Egmt & Sales Analysis (Excel File): Raw Data
